@@ -1,6 +1,4 @@
 ﻿/*!
-* jQuery scrollintoview() plugin and this also works for mobile devices(ios5+ where this css overflow-y: scroll; -webkit-overflow-scrolling: touch; works)
-*
 * Version 1.0 (14 Jul 2012)
 * Requires jQuery 1.4 or newer
 
